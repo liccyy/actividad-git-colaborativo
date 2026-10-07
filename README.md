@@ -1,4 +1,4 @@
-   Aporte A: hecho por Liceth Nieto
+   Aporte A: pendiente
    Aporte B: pendiente
    Color favorito: pendiente
    Lenguaje favorito: pendiente
