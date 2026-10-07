@@ -1,4 +1,4 @@
-   Aporte A: pendiente
-   Aporte B: hecho por camila hernandez
-   Color favorito: pendiente
-   Lenguaje favorito: pendiente
+Aporte A: hecho por Liceth Nieto
+Aporte B: hecho por Camila Hernandez
+Color favorito: pendiente
+Lenguaje favorito: pendiente
