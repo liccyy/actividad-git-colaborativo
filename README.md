@@ -1,5 +1,5 @@
 Aporte A: hecho por Liceth Nieto
 Aporte B: hecho por Camila Hernandez
-Color favorito: Rojo
+Color favorito: Azul y Rojo
 Lenguaje favorito: JavaScript
 
