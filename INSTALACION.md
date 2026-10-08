@@ -1,13 +1,14 @@
-\## REQUISITOS
+# Guía de instalación
 
-\-Windows 10 o superior
+## Requisitos
+- Windows 10 o superior
+- Cuenta de GitHub
 
-\-Cuenta de GitHub
-
-
-
-\## PASOS
-
+## Pasos
 1. Descargar Git for Windows
-2. Ejecutar al instalador
+2. Ejecutar el instalador
+3. Abrir el instalador de Git
+4. Dejar las opciones por defecto
 
+## Verificación
+Ejecutar git --version y comprobar que muestra un número de versión
