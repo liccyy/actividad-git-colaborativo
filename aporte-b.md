@@ -1,1 +1,1 @@
-Aporte B:Lista
+Aporte B:Lista de comandos de Git que usamos (clone, swicth, add, commit,push)
